@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3B911A-6D4C-440A-9C46-A5F17B22C905}|Project1\\Project1.vcxproj|C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Project1\\Project1\\lecture9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D3B911A-6D4C-440A-9C46-A5F17B22C905}|Project1\\Project1.vcxproj|solutionrelative:Project1\\lecture9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lecture9.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Project1\\Project1\\lecture9.c",
+              "RelativeDocumentMoniker": "Project1\\lecture9.c",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Project1\\Project1\\lecture9.c",
+              "RelativeToolTip": "Project1\\lecture9.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-30T01:06:09.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A87A9902-965A-42DC-85D3-71350DA5E527}|Polynomial\\Polynomial.vcxproj|C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A87A9902-965A-42DC-85D3-71350DA5E527}|Polynomial\\Polynomial.vcxproj|solutionrelative:Polynomial\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A87A9902-965A-42DC-85D3-71350DA5E527}|Polynomial\\Polynomial.vcxproj|C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A87A9902-965A-42DC-85D3-71350DA5E527}|Polynomial\\Polynomial.vcxproj|solutionrelative:Polynomial\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87A9902-965A-42DC-85D3-71350DA5E527}|Polynomial\\Polynomial.vcxproj|C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A87A9902-965A-42DC-85D3-71350DA5E527}|Polynomial\\Polynomial.vcxproj|solutionrelative:Polynomial\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Polynomial.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\Polynomial.cpp",
-              "RelativeDocumentMoniker": "Polynomial\\Polynomial.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\Polynomial.cpp",
-              "RelativeToolTip": "Polynomial\\Polynomial.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "Polynomial\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\\uC18C\uC2A4.cpp*",
+              "RelativeToolTip": "Polynomial\\\uC18C\uC2A4.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-27T00:07:43.171Z",
+              "WhenOpened": "2026-03-27T00:14:15.259Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "\uC18C\uC2A4.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\\uC18C\uC2A4.cpp",
-              "RelativeDocumentMoniker": "Polynomial\\\uC18C\uC2A4.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\\uC18C\uC2A4.cpp",
-              "RelativeToolTip": "Polynomial\\\uC18C\uC2A4.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Title": "Polynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\Polynomial.cpp",
+              "RelativeDocumentMoniker": "Polynomial\\Polynomial.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Data_Structure_Class_4\\Polynomial\\Polynomial\\Polynomial\\Polynomial.cpp",
+              "RelativeToolTip": "Polynomial\\Polynomial.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-27T00:14:15.259Z",
+              "WhenOpened": "2026-03-27T00:07:43.171Z",
               "EditorCaption": ""
             }
           ]
