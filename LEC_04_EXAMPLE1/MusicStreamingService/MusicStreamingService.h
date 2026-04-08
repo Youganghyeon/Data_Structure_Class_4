@@ -34,20 +34,20 @@ public:
 
 };
 
-class MusicStreamingService:Music {
+class MusicStreamingService{
 private:
 	string serviceName;
 	vector<Music>  MusicList;
 public:
 	//MusicStreamingService() : serviceName("Default Service") {};
-	MusicStreamingService(string serviceName_i): Music("", "", "", 0) {
+	MusicStreamingService(string serviceName_i){
 		this->serviceName = serviceName_i;
 	};
 	void addMusic(string title_i, string artist_i, string album_i, int year_i)
 	{
 		Music newMusic(title_i, artist_i, album_i, year_i);
 		MusicList.push_back(newMusic);
-		cout << title << "by" << artist<< "addedto" << serviceName<< endl;
+		cout << title_i << "by" << artist_i<< "added  to" << serviceName<< endl;
 	};
 
 	Music* serachByTitle(string title) {
@@ -60,5 +60,17 @@ public:
 			return NULL;
 		}
 	}
-
+	//search artist.....
+	vector<Music*>  serachByArtist(string artist) {
+		vector<Music*>	result;
+		//musicList에 있는 artist와 입력 artist가 같으면 result에 push back
+		for (int i = 0; i < MusicList.size(); i++)
+		{
+			if (MusicList[i].getartist() == artist)
+			{
+				result.push_back(&MusicList[i]);
+			}
+		}
+		return result;
+	}
 };
