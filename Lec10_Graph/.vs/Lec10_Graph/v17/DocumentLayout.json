@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Maze\\maze.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Maze\\maze.cpp",
               "RelativeToolTip": "Maze\\maze.cpp",
-              "ViewState": "AQIAABcAAAAAAAAAAAAiwB8AAAAkAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-20T01:56:04.361Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Maze\\maze.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-20T01:55:41.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T01:55:41.028Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "Graph\\AdjMatGrpah.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAADwvx0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-20T01:01:17.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T01:01:17.802Z"
             }
           ]
         }

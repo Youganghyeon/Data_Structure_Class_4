@@ -1,5 +1,2 @@
 ﻿  maze.cpp
-C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Maze\maze.cpp(40,4): error C2561: 'main': 함수는 값을 반환해야 합니다.
-  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Maze\maze.cpp(21,5):
-  'main' 선언을 참조하십시오.
-  
+  Maze.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\x64\Debug\Maze.exe
