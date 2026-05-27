@@ -1,6 +1,8 @@
 #pragma once
 #include <cstdio>
 #include <stack>
+#include <deque>
+#include <queue>
 using namespace std;
 
 struct Location2D {
