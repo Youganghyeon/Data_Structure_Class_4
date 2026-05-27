@@ -4,6 +4,9 @@ int main()
 
 {
 	SrchAMGrpah g;
+	WGraph c;
+	char str[] = "graph.txt";
+	c.load(str);
 	for (int i = 0; i <= 3; i++)
 	{
 		g.insertvector('A' + i);

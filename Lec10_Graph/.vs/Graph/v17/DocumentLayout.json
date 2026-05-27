@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CF6C8F2-DB26-4B59-9AF2-48CF4239EC40}|Solution\\Solution.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Solution\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5CF6C8F2-DB26-4B59-9AF2-48CF4239EC40}|Solution\\Solution.vcxproj|solutionrelative:Solution\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CF6C8F2-DB26-4B59-9AF2-48CF4239EC40}|Solution\\Solution.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Solution\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5CF6C8F2-DB26-4B59-9AF2-48CF4239EC40}|Solution\\Solution.vcxproj|solutionrelative:Solution\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D778FBD-3094-4198-90D7-8B8810AC305A}|Maze\\Maze.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Maze\\maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D778FBD-3094-4198-90D7-8B8810AC305A}|Maze\\Maze.vcxproj|solutionrelative:Maze\\maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D778FBD-3094-4198-90D7-8B8810AC305A}|Maze\\Maze.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Maze\\maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7D778FBD-3094-4198-90D7-8B8810AC305A}|Maze\\Maze.vcxproj|solutionrelative:Maze\\maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF9BA59E-9A60-4125-97C1-01AF95BA466C}|Graph\\Graph.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Graph\\AdjMatGrpah.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CF9BA59E-9A60-4125-97C1-01AF95BA466C}|Graph\\Graph.vcxproj|solutionrelative:Graph\\AdjMatGrpah.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF9BA59E-9A60-4125-97C1-01AF95BA466C}|Graph\\Graph.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Graph\\AdjMatGrpah.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CF9BA59E-9A60-4125-97C1-01AF95BA466C}|Graph\\Graph.vcxproj|solutionrelative:Graph\\AdjMatGrpah.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF6C8F2-DB26-4B59-9AF2-48CF4239EC40}|Solution\\Solution.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Solution\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CF6C8F2-DB26-4B59-9AF2-48CF4239EC40}|Solution\\Solution.vcxproj|solutionrelative:Solution\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D778FBD-3094-4198-90D7-8B8810AC305A}|Maze\\Maze.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Maze\\maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D778FBD-3094-4198-90D7-8B8810AC305A}|Maze\\Maze.vcxproj|solutionrelative:Maze\\maze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D778FBD-3094-4198-90D7-8B8810AC305A}|Maze\\Maze.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Maze\\maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D778FBD-3094-4198-90D7-8B8810AC305A}|Maze\\Maze.vcxproj|solutionrelative:Maze\\maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF6C8F2-DB26-4B59-9AF2-48CF4239EC40}|Solution\\Solution.vcxproj|C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Solution\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5CF6C8F2-DB26-4B59-9AF2-48CF4239EC40}|Solution\\Solution.vcxproj|solutionrelative:Solution\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "AdjMatGrpah.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Graph\\AdjMatGrpah.h",
               "RelativeDocumentMoniker": "Graph\\AdjMatGrpah.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Graph\\AdjMatGrpah.h",
               "RelativeToolTip": "Graph\\AdjMatGrpah.h",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAACAAAA",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwG8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-15T00:22:33.161Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AdjMatGrpah.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Graph\\AdjMatGrpah.cpp",
+              "RelativeDocumentMoniker": "Graph\\AdjMatGrpah.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Graph\\AdjMatGrpah.cpp",
+              "RelativeToolTip": "Graph\\AdjMatGrpah.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-15T00:21:57.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Solution.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Solution\\Solution.h",
               "RelativeDocumentMoniker": "Solution\\Solution.h",
@@ -63,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Solution.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Solution\\Solution.cpp",
               "RelativeDocumentMoniker": "Solution\\Solution.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Solution\\Solution.cpp",
               "RelativeToolTip": "Solution\\Solution.cpp",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-22T00:53:25.883Z",
               "EditorCaption": ""
@@ -82,33 +96,23 @@
               "RelativeDocumentMoniker": "Maze\\maze.h",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Maze\\maze.h",
               "RelativeToolTip": "Maze\\maze.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBQAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-20T01:35:53.743Z"
+              "WhenOpened": "2026-05-20T01:35:53.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "maze.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Maze\\maze.cpp",
               "RelativeDocumentMoniker": "Maze\\maze.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Maze\\maze.cpp",
               "RelativeToolTip": "Maze\\maze.cpp",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAwGYAAABIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-20T01:35:46.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdjMatGrpah.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Graph\\AdjMatGrpah.cpp",
-              "RelativeDocumentMoniker": "Graph\\AdjMatGrpah.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\data-structure-lab-2026-4\\Lec10_Graph\\Graph\\AdjMatGrpah.cpp",
-              "RelativeToolTip": "Graph\\AdjMatGrpah.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-15T00:21:57.533Z"
+              "WhenOpened": "2026-05-20T01:35:46.416Z",
+              "EditorCaption": ""
             }
           ]
         }
