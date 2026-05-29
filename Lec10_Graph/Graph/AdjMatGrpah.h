@@ -120,7 +120,7 @@ public:
 			{
 				char str[80];
 				int val;
-				fscanf_s(fp, "%s", (str));
+				fscanf_s(fp, "%s", str, sizeof(str));
 				insertvector(str[0]);
 				for (int j = 0; j < n; j++)
 				{

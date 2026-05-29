@@ -130,7 +130,7 @@
     <ClCompile Include="AdjMatGrpah.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AdjMatGrpah.h" />
+    <ClInclude Include="graph.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
