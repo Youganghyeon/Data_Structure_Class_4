@@ -199,3 +199,80 @@ public:
         }
     }
 };
+
+class WGraphDijkstra : public WGraph {
+    int dist[Max_vtxs];
+    bool found[Max_vtxs];
+public:
+    int chooseVertex() {
+        int min = INF;
+        int minpos = -1;
+        for(int i=0; i<size; i++)
+            if (dist[i] < min && !found[i]) {
+                min = dist[i];
+                minpos = i;
+            }
+        return minpos;
+    }
+    void printDistance()
+    {
+        for (int i = 0; i < size; i++)
+            printf("%5d", dist[i]);
+        printf("\n");
+    }
+
+    void ShortestPath(int start) {
+        for (int i = 0; i < size; i++) {
+            dist[i] = getEdge(start, i);
+            found[i] = false;
+        }
+        found[start] = true;
+        dist[start] = 0;
+        for (int i = 0; i < size; i++) {
+            printf("Step%2d :", i + 1);
+            printDistance();
+            int u = chooseVertex();
+            found[u] = true;
+            for (int w = 0; w < size; w++) {
+                if (found[w] == false)
+                    if (dist[u] + getEdge(u, w) < dist[w])
+                        dist[w] = dist[u] + getEdge(u, w);
+            }
+               
+        }
+    }
+};
+/*
+
+void Prim(int s) {
+    bool selected[Max_vtxs];
+    int  dist[Max_vtxs];
+    for (int i = 0; i < size; i++) {
+        dist[i] = INF;
+        selected[i] = false;
+    }
+    dist[s] = 0;
+    for (int i = 0; i < size; i++) {
+        int u = getMinVertex(selected, dist);
+        selected[u] = true;
+        if (dist[u] == INF) return;
+        printf("%c", getVertex(u));
+        for (int v = 0; v < size; v++)
+            if (getEdge(u, v) != INF)
+                if ((!selected[v] && getEdge(u, v) < dist[v])
+                    dist[v] = getEdge(u, v);
+    }
+    printf("\n");
+}
+
+int getMinVertex(bool* selected, int* dist) {
+    int minv = 0;
+    int mindist = INF;
+    for (int v = 0; v < size; v++)
+        if (!selected[v] && dist[v] < mindist) {
+            mindist = dist[v];
+            minv = v;
+        }
+    return minv;
+}
+*/

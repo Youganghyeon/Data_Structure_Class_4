@@ -34,9 +34,9 @@ int main()
 	g.DFS(0);
 	printf("\n");
 	return 0;*/
-	WGraphMST c;
+	WGraphDijkstra g;
 	char str[] = "graph.txt";
-	c.load(str);
-	c.display();
-	c.Kruskal();
+	g.load(str);
+	printf("Shorted Path by Djksta Algorith \n");
+	g.ShortestPath(0);
 }
