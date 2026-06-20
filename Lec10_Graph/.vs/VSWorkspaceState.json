@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Graph",
-    "\\Maze"
+    ""
   ],
-  "SelectedNode": "\\Maze\\Maze.vcxproj.user",
+  "SelectedNode": "\\Graph",
   "PreviewInSolutionExplorer": false
 }
