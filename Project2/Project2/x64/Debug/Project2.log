@@ -1,6 +1,0 @@
-﻿  소스.c
-C:\Users\USER\Documents\data-structure-lab-2026-4\Project2\Project2\소스.c(10,9): warning C4013: 'insertElement'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\USER\Documents\data-structure-lab-2026-4\Project2\Project2\소스.c(17,9): warning C4013: 'deleteElement'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-소스.obj : error LNK2019: insertElementmain 함수에서 참조되는 확인할 수 없는 외부 기호
-소스.obj : error LNK2019: deleteElementmain 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Users\USER\Documents\data-structure-lab-2026-4\Project2\x64\Debug\Project2.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
